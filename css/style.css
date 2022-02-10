@@ -78,6 +78,13 @@ header {
     width: 560px;
     margin-top: 28vh;
 }
+.border{
+    width: 36px;
+    height: 36px;
+    border: 1px solid #ffffff;
+    border-radius: 1px;
+    display: inline-block;
+}
 
 h1 {
     font-size: 55px;
